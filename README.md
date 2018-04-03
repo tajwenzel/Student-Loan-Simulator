@@ -1,2 +1,2 @@
 # Student-Loan-Simulator
-Flexible function for simulating different repayment plans
+Flexible function for simulating different repayment plans at once
