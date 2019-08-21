@@ -11,7 +11,12 @@ I don't want anyone to be made to feel ignorant about their own money, and I thi
 # What knowledge gap does it fill?
 1) Most loan calculators online do not compare different repayment plans at once. If they do they do not graph the results in time.
 2) Most loan calculators online cannot comphensate for lifestyle changes in payment. For example say you worked for a few years paid a portion of the loan and went back to school, so the loan went on hold. 
-3) Most loan calculators online cannot comphensate for bulk payments. Say you came into some money now, would it be better to use it to over pay the loan now or maybe invest it? How much time do you cut off the end of the loan by overpaying now (e.g. 1 month or 2 years)? How much money do you save overall by overpaying now versus later. 
+3) Most loan calculators online cannot comphensate for bulk payments. Say you came into some money would it be better to use it to over pay the loan now or maybe invest it? How much time do you cut off the end of the loan by overpaying now (e.g. 1 month or 2 years)? How much money do you save overall by overpaying now versus later. 
 4) Most loan calculators can only handle one loan at a time and cannot give you a breakdown of multiple loans cumulatively and seperately. 
+
+# What this model provides:
+1) A personalized loan calculator that can accomodate multiple lifestyle changes and repayment plans so that you can make the best decisions for yourself.
+
+
 
 
