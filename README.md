@@ -16,6 +16,7 @@ I don't want anyone to be made to feel ignorant about their own money, and I thi
 
 # What this model provides:
 1) A personalized loan calculator that can accomodate multiple lifestyle changes and repayment plans so that you can make the best decisions for yourself.
+2) The simulator code is written for the R coding language, a free statistical computing language that can be installed on macs and PCs. For more information on how to install and use R visit <https://www.r-project.org/>
 
 
 
